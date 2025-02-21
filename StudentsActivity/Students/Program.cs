@@ -55,7 +55,7 @@
                 }
             }
 
-            //Looping until the user chooses to exit the program
+            //Looping until the user decides to exit the program
             while (true)
             {
                 Console.WriteLine("Enter 1 to add a student, 2 to display all students, or 3 to exit: ");
@@ -74,7 +74,7 @@
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please try again.");
+                    Console.WriteLine("Please try again, either choose 1 to add a student, 2 to display all students or 3 to exit.");
                 }
             }
 

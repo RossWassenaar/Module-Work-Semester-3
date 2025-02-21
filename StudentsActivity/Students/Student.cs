@@ -48,7 +48,6 @@ namespace Students
                 Console.WriteLine("Paid: No");
             }
             Console.WriteLine();
-
         }
     }
 }
