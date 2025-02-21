@@ -1,0 +1,15 @@
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\bin\Debug\net8.0\Students.exe
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\bin\Debug\net8.0\Students.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.sourcelink.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\StudentsActivity\Students\obj\Debug\net8.0\ref\Students.dll
