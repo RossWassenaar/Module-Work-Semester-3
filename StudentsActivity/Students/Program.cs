@@ -18,42 +18,7 @@
             students.Add(student2);
             students.Add(student3);
 
-            //Method to take user input of a new student's details and add it to the list
-            void addStudent()
-            {
-                Console.WriteLine("Enter student name: ");
-                String name = Console.ReadLine();
-                Console.WriteLine("Enter student number: ");
-                String number = Console.ReadLine();
-                Console.WriteLine("Enter student age: ");
-                int age = int.Parse(Console.ReadLine());
-                Console.WriteLine("Enter student class time: ");
-                String classTime = Console.ReadLine();
-                Console.WriteLine("Enter student course: ");
-                String course = Console.ReadLine();
-                Console.WriteLine("Has the student paid? (Yes/No): ");
-                String paidYesNo = Console.ReadLine();
-                Boolean paid = true;
-                if (paidYesNo.Equals("Yes", StringComparison.OrdinalIgnoreCase))
-                {
-                    paid = true;
-                }
-                else if (paidYesNo.Equals("No", StringComparison.OrdinalIgnoreCase))
-                {
-                    paid = false;
-                }
-                Student student = new Student(name, number, age, classTime, course, paid);
-                students.Add(student);
-            }
-
-            //Method to display all students in the list
-            void displayStudents()
-            {
-                foreach (var item in students)
-                {
-                    item.displayDetails();
-                }
-            }
+            StudentManagement studentList = new StudentManagement(students);
 
             //Looping until the user decides to exit the program
             while (true)
@@ -62,11 +27,11 @@
                 int choice = int.Parse(Console.ReadLine());
                 if (choice == 1)
                 {
-                    addStudent();
+                    studentList.addStudent();
                 }
                 else if (choice == 2)
                 {
-                    displayStudents();
+                    studentList.displayStudents();
                 }
                 else if (choice == 3)
                 {

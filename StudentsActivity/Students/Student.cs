@@ -8,6 +8,7 @@ namespace Students
 {
     class Student
     {
+        //Student attributes
         string name;
         string number;
         int age;
@@ -15,6 +16,15 @@ namespace Students
         string course;
         Boolean paid;
 
+        //encapsulation
+        public string Name { get => name; set => name = value; }
+        public string Number { get => number; set => number = value; }
+        public int Age { get => age; set => age = value; }
+        public string ClassTime { get => classTime; set => classTime = value; }
+        public string Course { get => course; set => course = value; }
+        public bool Paid { get => paid; set => paid = value; }
+
+        //Student constructor
         public Student(string name, string number, int age, string classTime, string course, bool paid)
         {
             this.name = name;
@@ -25,14 +35,8 @@ namespace Students
             this.paid = paid;
         }
 
-        public string Name { get => name; set => name = value; }
-        public string Number { get => number; set => number = value; }
-        public int Age { get => age; set => age = value; }
-        public string ClassTime { get => classTime; set => classTime = value; }
-        public string Course { get => course; set => course = value; }
-        public bool Paid { get => paid; set => paid = value; }
-
-        public void displayDetails()
+        //Method to display an individual student's details
+        public virtual void displayDetails()
         {
             Console.WriteLine($"Name: {Name}");
             Console.WriteLine($"Number: {Number}");
