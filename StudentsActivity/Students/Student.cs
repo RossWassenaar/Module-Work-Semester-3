@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Students
 {
-    class Student
+    abstract class Student
     {
         //Student attributes
         string name;
@@ -35,23 +35,9 @@ namespace Students
             this.paid = paid;
         }
 
-        //Method to display an individual student's details
-        public virtual void displayDetails()
-        {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Number: {Number}");
-            Console.WriteLine($"Age: {Age}");
-            Console.WriteLine($"Morning or afternoon classes: {ClassTime}");
-            Console.WriteLine($"Course: {Course}");
-            if (Paid == true)
-            {
-                Console.WriteLine("Paid: Yes");
-            }
-            else
-            {
-                Console.WriteLine("Paid: No");
-            }
-            Console.WriteLine();
-        }
+        //Abstract method for a template to display an individual student's details
+        public abstract void DisplayDetails();
     }
+
+
 }

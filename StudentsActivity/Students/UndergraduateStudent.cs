@@ -17,9 +17,23 @@ namespace Students
         }
 
         //Polymorrphism: override the displayDetails method declared in Student class to show the list of modules
-        public override void displayDetails()
+        public override void DisplayDetails()
         {
-            base.displayDetails(); //calls the original method from Student
+            //base.displayDetails(); //calls the original method from Student
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Number: {Number}");
+            Console.WriteLine($"Age: {Age}");
+            Console.WriteLine($"Morning or afternoon classes: {ClassTime}");
+            Console.WriteLine($"Course: {Course}");
+            if (Paid == true)
+            {
+                Console.WriteLine("Paid: Yes");
+            }
+            else
+            {
+                Console.WriteLine("Paid: No");
+            }
+            Console.WriteLine();
             Console.WriteLine("Moddules Enrolled for: " + string.Join(", ", Modules)); //overrides the method to also display the modules
         }
     }

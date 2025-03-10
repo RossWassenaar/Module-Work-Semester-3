@@ -1,0 +1,15 @@
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.exe
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.deps.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.runtimeconfig.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\bin\Debug\net8.0\TicketingSystem.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.sourcelink.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\refint\TicketingSystem.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\TicketingSystem.genruntimeconfig.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\TicketingSystem\TicketingSystem\obj\Debug\net8.0\ref\TicketingSystem.dll

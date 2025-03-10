@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\OrderingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB4337F-61EB-4605-AD69-986E40C43FC6}|OrderingSystem\\OrderingSystem.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\orderingsystem\\orderingsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB4337F-61EB-4605-AD69-986E40C43FC6}|OrderingSystem\\OrderingSystem.csproj|solutionrelative:orderingsystem\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB4337F-61EB-4605-AD69-986E40C43FC6}|OrderingSystem\\OrderingSystem.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\orderingsystem\\orderingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB4337F-61EB-4605-AD69-986E40C43FC6}|OrderingSystem\\OrderingSystem.csproj|solutionrelative:orderingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\OrderingSystem\\OrderingSystem\\Order.cs",
+              "RelativeDocumentMoniker": "OrderingSystem\\Order.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\OrderingSystem\\OrderingSystem\\Order.cs",
+              "RelativeToolTip": "OrderingSystem\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:25:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\OrderingSystem\\OrderingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OrderingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\OrderingSystem\\OrderingSystem\\Program.cs",
+              "RelativeToolTip": "OrderingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:24:44.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,19 +20,56 @@ namespace Students
         //Method to take user input of a new student's details and add it to the list
         public void addStudent()
         {
+            string name;
+            string number;
+            int age;
             //Accepting user inputted values for the new student
             Console.WriteLine("Enter student name: ");
-            String name = Console.ReadLine();
+            while (true)
+            {
+                try
+                {
+                    name = Console.ReadLine();
+                    break;
+                }
+                catch (ArgumentNullException)
+                {
+                    Console.WriteLine("You must input a student name");
+                }
+            }
+            
             Console.WriteLine("Enter student number: ");
-            String number = Console.ReadLine();
+            while (true)
+            {
+                try
+                {
+                    number = Console.ReadLine();
+                    break;
+                }
+                catch (ArgumentNullException)
+                {
+                    Console.WriteLine("You must input a student number")
+                }
+            }
+            
             Console.WriteLine("Enter student age: ");
-            int age = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                try
+                {
+                    age = int.Parse(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Invalid input, please enter a valid age");
+                }
+            }
             Console.WriteLine("Enter student class time: ");
-            String classTime = Console.ReadLine();
+            string classTime = Console.ReadLine();
             Console.WriteLine("Enter student course: ");
-            String course = Console.ReadLine();
+            string course = Console.ReadLine();
             Console.WriteLine("Has the student paid? (Yes/No): ");
-            String paidYesNo = Console.ReadLine();
+            string paidYesNo = Console.ReadLine();
             Boolean paid = true;
 
             //Checking if the user inputted "Yes" or "No" and setting the paid variable accordingly
@@ -47,7 +84,7 @@ namespace Students
 
             //Asking the user what type of student is to be added (Undergraduate or Postgraduate)
             Console.WriteLine("Is the student an undergraduate or postgraduate student? (Undergraduate/Postgraduate):");
-            String studentType = Console.ReadLine();
+            string studentType = Console.ReadLine();
 
             //Checking if the user inputted "Yes" or "No" and creating the correct type of student
             if (studentType.Equals("Undergraduate", StringComparison.OrdinalIgnoreCase))
@@ -55,7 +92,7 @@ namespace Students
                 //asking the user for the list of modules the student is enrolled in
                 Console.WriteLine("Enter the number of modules the student is enrolled in:");
                 int numModules = int.Parse(Console.ReadLine());
-                List<String> modules = new List<string>();
+                List<string> modules = new List<string>();
                 for (int i = 0; i < numModules; i++)
                 {
                     Console.WriteLine("Enter module " + (i + 1) + ": ");
@@ -73,8 +110,7 @@ namespace Students
             }
             else
             {
-                Student student = new Student(name, number, age, classTime, course, paid);
-                students.Add(student);
+                Console.WriteLine("Please enter a valid student type");
             }
         }
 
@@ -83,7 +119,7 @@ namespace Students
         {
             foreach (var item in students)
             {
-                item.displayDetails(); //uses the displayDetails method either from the Student class or the UndergraduateStudent class, polymorphism in action
+                item.DisplayDetails(); //uses the displayDetails method either from the Student class or the UndergraduateStudent class, polymorphism in action
             }
         }
     }

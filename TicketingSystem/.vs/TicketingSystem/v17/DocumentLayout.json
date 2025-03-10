@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\TicketingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C24744E1-B9DB-40F3-8923-076030BA586F}|TicketingSystem\\TicketingSystem.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\ticketingsystem\\ticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24744E1-B9DB-40F3-8923-076030BA586F}|TicketingSystem\\TicketingSystem.csproj|solutionrelative:ticketingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24744E1-B9DB-40F3-8923-076030BA586F}|TicketingSystem\\TicketingSystem.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\ticketingsystem\\ticketingsystem\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C24744E1-B9DB-40F3-8923-076030BA586F}|TicketingSystem\\TicketingSystem.csproj|solutionrelative:ticketingsystem\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\TicketingSystem\\TicketingSystem\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketingSystem\\Ticket.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\TicketingSystem\\TicketingSystem\\Ticket.cs",
+              "RelativeToolTip": "TicketingSystem\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:59:21.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\TicketingSystem\\TicketingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TicketingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\TicketingSystem\\TicketingSystem\\Program.cs",
+              "RelativeToolTip": "TicketingSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:58:28.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
