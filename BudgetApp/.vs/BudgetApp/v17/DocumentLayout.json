@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\budgetapp\\budgetapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|c:\\users\\rossr\\onedrive\\varsity\\module work\\prog6221\\module work\\module-work-semester-3\\budgetapp\\budgetapp\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\budgetapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00FBD5BB-CCCE-4621-9AD6-DFC8B1F4845B}|BudgetApp\\BudgetApp.csproj|solutionrelative:budgetapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BudgetApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Form1.cs [Design]",
+              "RelativeToolTip": "BudgetApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:39:20.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Form1.cs",
+              "RelativeDocumentMoniker": "BudgetApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Form1.cs",
+              "RelativeToolTip": "BudgetApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:33:26.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Budget.cs",
+              "RelativeDocumentMoniker": "BudgetApp\\Budget.cs",
+              "ToolTip": "C:\\Users\\rossr\\OneDrive\\Varsity\\Module Work\\PROG6221\\Module Work\\Module-Work-Semester-3\\BudgetApp\\BudgetApp\\Budget.cs",
+              "RelativeToolTip": "BudgetApp\\Budget.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:27:44.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

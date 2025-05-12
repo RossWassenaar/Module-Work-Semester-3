@@ -1,0 +1,39 @@
+﻿<Window x:Class="WpfApp2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="659" Width="800">
+
+    <StackPanel Margin="20" Background="Blue">
+        <TextBlock x:Name="Heading" Text="Job Application Form" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center"></TextBlock>
+        <Canvas x:Name="Canvas_PersonalInfo" Height="145">
+            <TextBlock Text ="Application Full Name" FontSize="16"></TextBlock>
+            <TextBox x:Name="txt_FullName" Width="200" Height="25" HorizontalAlignment="Left" Canvas.Top="21" Canvas.Left="1"></TextBox>
+            <TextBlock Text="Role:" FontSize="16" HorizontalAlignment="Left" Canvas.Top="50"></TextBlock>
+            <TextBox x:Name="txt_Role" Width="200" Height="25" HorizontalAlignment="Left" Canvas.Top="70" Canvas.Left="1"></TextBox>
+            <TextBlock Text="Expected Salary:" FontSize="16" Canvas.Top="100"></TextBlock>
+            <TextBox x:Name="txt_ExpectedSalary" Width="200" Height="25" Canvas.Top="120" Canvas.Left="1"></TextBox>
+        </Canvas>
+        <Canvas x:Name="Canvas_Skills" Height="50" Margin="10" Background="Red">
+            <TextBlock Text="Skills" HorizontalAlignment="Center" Canvas.Left="10" VerticalAlignment="Center" FontSize="16" FontWeight="Bold"></TextBlock>
+            <WrapPanel Canvas.Left="265" Canvas.Top="14" Height="22" Width="210" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <CheckBox x:Name="chk_CSharp" Content ="C#" FontSize="16" RenderTransformOrigin="2.294,2.4" Canvas.Left="13" Canvas.Top="25" Width="67"></CheckBox>
+                <CheckBox x:Name ="chk_Python" Content ="Python" FontSize="16" RenderTransformOrigin="2.047,1.93" Canvas.Left="152" Canvas.Top="26" Width="86"></CheckBox>
+                <CheckBox x:Name="chk_Java" Content ="Java" FontSize="16"></CheckBox>
+            </WrapPanel>
+
+        </Canvas>
+        <Canvas x:Name="Canvas_Button" Height="125" Width="747">
+            <Button Content="SUBMIT" FontWeight="ExtraBold" FontSize="90" Height="125" Width="740" Background="#00FF00" Click="Button_Click" HorizontalAlignment="Left" Canvas.Left="4" VerticalAlignment="Center" RenderTransformOrigin="0.501,0.526"/>
+        </Canvas>
+        <Canvas Height="193" Width="730" RenderTransformOrigin="0.5,0.486">
+            <TextBlock x:Name="textBlock_InfoOutput" TextWrapping="Wrap" Text="" Canvas.Top="10" Height="169" Width="710" HorizontalAlignment="Left" Canvas.Left="10" VerticalAlignment="Top"/>
+            <Image x:Name ="SuccessImage" Height="100" Canvas.Left="568" Canvas.Top="47" Width="100" Source="/OIP.jpeg"/>
+        </Canvas>
+
+
+    </StackPanel>
+</Window>

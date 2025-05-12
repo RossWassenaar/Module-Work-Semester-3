@@ -1,0 +1,15 @@
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\bin\Debug\net8.0\ListDemo.exe
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\bin\Debug\net8.0\ListDemo.deps.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\bin\Debug\net8.0\ListDemo.runtimeconfig.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\bin\Debug\net8.0\ListDemo.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\bin\Debug\net8.0\ListDemo.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.AssemblyInfoInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.AssemblyInfo.cs
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.sourcelink.json
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\refint\ListDemo.dll
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.pdb
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ListDemo.genruntimeconfig.cache
+C:\Users\rossr\OneDrive\Varsity\Module Work\PROG6221\Module Work\Module-Work-Semester-3\ListDemo\ListDemo\obj\Debug\net8.0\ref\ListDemo.dll

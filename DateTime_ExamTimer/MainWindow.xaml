@@ -1,0 +1,22 @@
+﻿<Window x:Class="DateTime_ExamTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DateTime_ExamTimer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="698">
+    <Grid>
+        <Image x:Name="background" HorizontalAlignment="Left" Height="443" VerticalAlignment="Top" Width="698" RenderTransformOrigin="0.502,0.5" Source="/classroom exam screen.jpg"/>
+        <Label x:Name="Label_Title" Content="Exam Duration" HorizontalAlignment="Center" Margin="0,46,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+        <ComboBox x:Name="ComboBox_ExamDuration" HorizontalAlignment="Left" Margin="224,90,0,0" VerticalAlignment="Top" Width="141" Height="30">
+            <ComboBoxItem Content="1 Minute" FontSize="16" Tag="1"/>
+            <ComboBoxItem Content="3 Minutes" FontSize="16" Tag="3"/>
+            <ComboBoxItem Content="5 Minutes" FontSize="16" Tag="5"/>
+            <ComboBoxItem Content="10 Minutes" FontSize="16" Tag="10"/>
+        </ComboBox>
+        <ProgressBar x:Name="ProgressBar_ExamDuration" HorizontalAlignment="Center" Height="29" Margin="0,142,0,0" VerticalAlignment="Top" Width="250"/>
+        <Button x:Name="Button_StartExam" Content="Start Exam" FontSize="16" HorizontalAlignment="Left" Margin="390,90,0,0" VerticalAlignment="Top" Height="30" Width="84" Click="Button_StartExam_Click"/>
+
+    </Grid>
+</Window>
